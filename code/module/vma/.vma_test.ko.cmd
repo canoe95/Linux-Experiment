@@ -1,0 +1,1 @@
+cmd_/home/northboat/Experiment/Module/vma/vma_test.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/northboat/Experiment/Module/vma/vma_test.ko /home/northboat/Experiment/Module/vma/vma_test.o /home/northboat/Experiment/Module/vma/vma_test.mod.o ;  true
