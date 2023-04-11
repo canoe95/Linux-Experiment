@@ -7,12 +7,16 @@ date: 2023-3-1
 
 <img src="./assets/name.png">
 
+<br><br><br>
+
 | <center>学院       | <center>计算机与通信工程学院 |
 | ------------------ | ---------------------------- |
 | <center>**专业**   | <center>**计算机科学与技术** |
 | <center>**班级号** | <center>**200523**           |
 | <center>**学号**   | <center>**202012143**        |
 | <center>**姓名**   | <center>**熊舟桐**           |
+
+<br><br>
 
 ## Linux 基本命令
 
