@@ -10,6 +10,7 @@
 #include <asm/switch_to.h>
 #include <asm/uaccess.h>
 #include <linux/errno.h>
+#include <linux/uaccess.h>
 
 #define MYCDEV_MAJOR 300  /*主设备号，通过cat /proc/devices 查询，选择未使用的设备号*/
 #define MYCDEV_SIZE 1024
